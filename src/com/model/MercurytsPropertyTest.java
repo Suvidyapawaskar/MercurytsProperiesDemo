@@ -42,8 +42,7 @@ import org.testng.annotations.AfterSuite;
 
 public class MercurytsPropertyTest 
 
-{
-	
+{	
  
  public WebDriver driver;
 
@@ -127,6 +126,7 @@ public class MercurytsPropertyTest
 
 	driver.findElement(By.linkText("SIGN-OFF")).click();
         System.out.println("User1 has login into Mercury Tours application successfully");
+        System.out.println("Valid User has login into Mercury Tours successfully");
 
   }
   
