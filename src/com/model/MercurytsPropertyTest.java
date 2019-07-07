@@ -109,6 +109,7 @@ public class MercurytsPropertyTest
   {
 
 	  driver.get(prop.getProperty("url"));
+	  System.out.println("Application url has entered successfully");
 
   }
 
