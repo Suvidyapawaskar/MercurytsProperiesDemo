@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="171831" started-at="2019-04-16T06:36:15Z" finished-at="2019-04-16T06:39:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="171831" started-at="2019-04-16T06:36:15Z" finished-at="2019-04-16T06:39:07Z">
+      <class name="com.model.MercurytsPropertyTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.model.MercurytsPropertyTest@643b1d11]" name="openBrowser" is-config="true" duration-ms="19645" started-at="2019-04-16T06:35:55Z" finished-at="2019-04-16T06:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="enterApplicationURL()[pri:0, instance:com.model.MercurytsPropertyTest@643b1d11]" name="enterApplicationURL" is-config="true" duration-ms="3961" started-at="2019-04-16T06:36:15Z" finished-at="2019-04-16T06:36:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterApplicationURL -->
+        <test-method status="PASS" signature="maximizeBrowser()[pri:0, instance:com.model.MercurytsPropertyTest@643b1d11]" name="maximizeBrowser" is-config="true" duration-ms="1471" started-at="2019-04-16T06:36:20Z" finished-at="2019-04-16T06:36:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizeBrowser -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.model.MercurytsPropertyTest@643b1d11]" name="getAllCookies" is-config="true" duration-ms="859" started-at="2019-04-16T06:36:21Z" finished-at="2019-04-16T06:36:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithvalidds()[pri:1, instance:com.model.MercurytsPropertyTest@643b1d11]" name="loginwithvalidds" duration-ms="89450" started-at="2019-04-16T06:36:22Z" finished-at="2019-04-16T06:37:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvalidds -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.model.MercurytsPropertyTest@643b1d11]" name="captureScreenshot" is-config="true" duration-ms="0" started-at="2019-04-16T06:37:51Z" finished-at="2019-04-16T06:37:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.model.MercurytsPropertyTest@643b1d11]" name="getAllCookies" is-config="true" duration-ms="14" started-at="2019-04-16T06:37:51Z" finished-at="2019-04-16T06:37:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithvalidds2()[pri:2, instance:com.model.MercurytsPropertyTest@643b1d11]" name="loginwithvalidds2" duration-ms="69991" started-at="2019-04-16T06:37:51Z" finished-at="2019-04-16T06:39:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvalidds2 -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.model.MercurytsPropertyTest@643b1d11]" name="captureScreenshot" is-config="true" duration-ms="0" started-at="2019-04-16T06:39:01Z" finished-at="2019-04-16T06:39:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.model.MercurytsPropertyTest@643b1d11]" name="getAllCookies" is-config="true" duration-ms="26" started-at="2019-04-16T06:39:01Z" finished-at="2019-04-16T06:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithinvalidds()[pri:3, instance:com.model.MercurytsPropertyTest@643b1d11]" name="loginwithinvalidds" duration-ms="4762" started-at="2019-04-16T06:39:02Z" finished-at="2019-04-16T06:39:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithinvalidds -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.model.MercurytsPropertyTest@643b1d11]" name="captureScreenshot" is-config="true" duration-ms="1" started-at="2019-04-16T06:39:06Z" finished-at="2019-04-16T06:39:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="deleteAllcookies()[pri:0, instance:com.model.MercurytsPropertyTest@643b1d11]" name="deleteAllcookies" is-config="true" duration-ms="234" started-at="2019-04-16T06:39:06Z" finished-at="2019-04-16T06:39:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllcookies -->
+        <test-method status="PASS" signature="dbConnectionclosed()[pri:0, instance:com.model.MercurytsPropertyTest@643b1d11]" name="dbConnectionclosed" is-config="true" duration-ms="0" started-at="2019-04-16T06:39:07Z" finished-at="2019-04-16T06:39:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbConnectionclosed -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.model.MercurytsPropertyTest@643b1d11]" name="closeBrowser" is-config="true" duration-ms="749" started-at="2019-04-16T06:39:07Z" finished-at="2019-04-16T06:39:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.model.MercurytsPropertyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
