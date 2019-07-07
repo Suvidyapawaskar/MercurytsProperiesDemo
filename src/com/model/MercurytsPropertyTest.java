@@ -145,6 +145,7 @@ public class MercurytsPropertyTest
 	  driver.findElement(By.linkText("SIGN-OFF")).click();
 
 	  System.out.println("User2 has login into Mercury Tours application successfully");
+	   System.out.println("Valid User2 has login into Mercury Tours application successfully");
 
   }
   
